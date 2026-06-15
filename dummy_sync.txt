@@ -1,1 +1,2 @@
 sync day
+sync 2
